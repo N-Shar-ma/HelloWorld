@@ -1,0 +1,12 @@
+run this code in the playground at https://bhailang.js.org/
+
+hi bhai
+ bhai ye hai target = "HELLO WORLD";
+ bhai ye hai current = "RAZZAMATAZZ"; // can be any string not same as target
+ agar bhai (target!=current) {
+   current = target;
+ }
+ bol bhai current;
+
+bye bhai
+#MadeInIndia #ToyLanguage
